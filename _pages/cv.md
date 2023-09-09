@@ -11,21 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Rizhao, Qufu Normal University, 2007 
+* M.S. in Shenyang, ,Graduate School of Chinese Academy of Sciences, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2011: Software engineer & Software manager 
+  * ZTEMT 
+  * Duties included: R&D of smart phone  
+  * Supervisor: Section chief 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2014: Software engineer & Algorithm engineer 
+  * Tencent 
+  * Duties included: R&D in audio speech recognition
+  * Supervisor: Team Leader
+
+* Fall 2018: Project manager & Department head 
+  * Fiberhome Potevio 
+  * Duties included: project management, R&D in Artificial Intelligence
+  * Supervisor: General manager 
+
+* Winter 2021: Teacher 
+  * WTC 
+  * Duties included: Teaching in Artificial Intelligence and Big data
+  * Supervisor: Dean
+ 
   
 Skills
 ======
