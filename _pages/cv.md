@@ -27,12 +27,12 @@ Work experience
   * Supervisor: Team Leader
 
 * Fall 2018: Project manager & Department head 
-  * Fiberhome Potevio 
+  * FHPT
   * Duties included: project management, R&D in Artificial Intelligence
   * Supervisor: General manager 
 
 * Winter 2021: Teacher 
-  * WTC 
+  * XXX 
   * Duties included: Teaching in Artificial Intelligence and Big data
   * Supervisor: Dean
  
